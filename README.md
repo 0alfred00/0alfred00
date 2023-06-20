@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my javascript skills**
 
-- 👯 I’m looking to collaborate on **an AI tool featuring advanced prompt enigneering**
+- 👯 I’m looking to collaborate on **an AI tool featuring advanced prompt engineering**
 
 - 📫 How to reach me **seeliger.alfred@gmail.com**
 
