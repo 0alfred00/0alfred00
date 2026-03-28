@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Alfred</h1>
-<h3 align="center">An AI enthusiast who wants to push the boundaries of what is possible</h3>
+<h3 align="center">I help businesses scale operations without scaling headcount using AI and process design.</h3>
 
-- 🔭 *I’m currently working on an AI agent for recruiting*
-
-- 📫 How to reach me **seeliger.alfred@gmail.com**
+- 📫 How to reach me **alfred.seeliger@prospectfoundries.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
